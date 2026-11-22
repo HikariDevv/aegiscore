@@ -1,0 +1,9 @@
+out/
+dist/
+*.class
+*.jar
+*.aegisq
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
